@@ -1,0 +1,26 @@
+body {
+background-color: lightblue;
+}
+.title {
+  background-image:linear-gradient(blue,lightblue);
+  text-align: center;
+  padding-top: 10px;
+}
+.column {
+  width: 275px;
+  float: left;
+  border: 3px solid black;
+  margin: 5px;
+  padding-left:5px;
+  padding-right: 5px;
+  border-radius: 5px;
+}
+img {
+  height: 150px;
+}
+.spooky {
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+  letter-spacing: 2px;
+}
